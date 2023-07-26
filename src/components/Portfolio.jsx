@@ -28,8 +28,8 @@ const Portfolio = () => {
         {
             id:4,
             src:portfolio_profile,
-            live:"https://vg89.github.io/vibha",
-            code:"https://github.com/vg89/my-calculator",
+            live:"https://vibha-personal-portfolio.netlify.app/",
+            code:"https://github.com/vg89/personal-portfolio",
         }
         
 
